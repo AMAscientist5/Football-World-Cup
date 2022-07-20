@@ -1,0 +1,36 @@
+/* index2.html design, blog section start here  */
+
+.blog {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 240px;
+    padding: 10px;
+}
+
+.blog-photo {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.blog-vs {
+    font: 16px;
+    margin: 0 5px;
+}
+
+.blog-info {
+    text-align: center;
+    margin-left: 0;
+}
+
+.blog-heading {
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+.blog-text {
+    margin-bottom: 15px;
+    font-size: 15px;
+    color: #4D4D4D;
+}
